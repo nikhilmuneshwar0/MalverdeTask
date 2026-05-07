@@ -52,7 +52,7 @@ The notebook writes cleaned and consolidated results to an output folder defined
 - `choropleth_country.html`
 - `treemap_country_sanction.html`
 
-Depending on which export cells you run, the notebook may also create cleaned CSV files such as:
+Depending on which export cells you run, the notebook will also create cleaned CSV files such as:
 
 - `cleaned_data.csv`
 - `unique_sanctions.csv`
