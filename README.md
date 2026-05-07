@@ -57,7 +57,3 @@ Depending on which export cells you run, the notebook will also create cleaned C
 - `cleaned_data.csv`
 - `unique_sanctions.csv`
 - `consolidated_data.csv`
-
-## Notes
-
-Some notebook cells assume that specific columns exist in the CSV. If the source file changes, a few cells may need small updates to column names or output paths.
